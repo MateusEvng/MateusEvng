@@ -14,7 +14,7 @@ Everything is possible for those who believe in themselves. 🐈‍⬛ </br>
 
 #### Courses in Progress
 
-- **Learn JavaScript** from Codecademy
+- **"Learn JavaScript"** from Codecademy
   - Progress: [███████████░░░░░░░░░░] 36%
 
 *Superstar Supernova* 🛸 </br>
